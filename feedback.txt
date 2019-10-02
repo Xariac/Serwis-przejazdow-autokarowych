@@ -1,0 +1,7 @@
+﻿Email: EMAIL1 Temat: TEMAT1 Treść: TREŚĆ1
+
+Email: EMAIL2 Temat: TEMAT2 Treść: TREŚĆ2
+
+Email: EMAIL3 Temat: TEMAT3 Treść: TREŚĆ3
+
+

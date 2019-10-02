@@ -1,0 +1,14 @@
+<?php
+include("head.php");
+include("zapiskontakt.php");
+include("dbconnection.php");
+$page=$_GET['page'];
+if(isset($page))
+{
+	include($page.".php");
+}
+else{
+	include("zaloguj.php");
+}
+include("footer.php");
+?>
